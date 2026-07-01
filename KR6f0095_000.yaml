@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0095/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿彌陀佛說呪
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0369.xml
+    old_id: T12n0369
+hash: sha256:f8c67b38264ad5ed79d625ee479577ad243d0f4c9ce176756ddbcf72dcd2bc1f
