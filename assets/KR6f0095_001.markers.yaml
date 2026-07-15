@@ -13,6 +13,7 @@ markers:
   - {type: xml-element, offset: 7, content: '', id: KR6f0095_T_001-bkkxmlele5, name: note, role: open, attrs: {place: inline}}
   - {type: punctuation, offset: 10, content: ，, id: KR6f0095_T_001-bkkpn1}
   - {type: xml-element, offset: 12, content: '', id: KR6f0095_T_001-bkkxmlele6, name: note, role: close, attrs: {place: inline}}
+  - {type: substitution, offset: 14, original: 䭾, replacement: 馱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6222}}
   - {type: xml-element, offset: 16, content: '', id: KR6f0095_T_001-bkkxmlele7, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 17, content: '', id: KR6f0095_T_001-bkkxmlele8, name: note, role: close, attrs: {place: inline}}
   - {type: line-break, offset: 20, content: '', id: KR6f0095_T_001-0352a26, ed: T, 'n': 0352a26}
@@ -64,6 +65,7 @@ markers:
   - {type: xml-element, offset: 104, content: '', id: KR6f0095_T_001-bkkxmlele46, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 105, content: '', id: KR6f0095_T_001-bkkxmlele47, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 106, content: '', id: KR6f0095_T_001-bkkxmlele48, name: note, role: close, attrs: {place: inline}}
+  - {type: substitution, offset: 106, original: 㘓, replacement: 讕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-9950}}
   - {type: xml-element, offset: 112, content: '', id: KR6f0095_T_001-bkkxmlele49, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 113, content: '', id: KR6f0095_T_001-bkkxmlele50, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 114, content: '', id: KR6f0095_T_001-bkkxmlele51, name: note, role: open, attrs: {place: inline}}
@@ -95,4 +97,4 @@ markers:
   - {type: xml-element, offset: 163, content: '', id: KR6f0095_T_001-bkkxmlele72, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 163, content: '', id: pT12p0352a2501_end, name: p, role: close, attrs: {'cb:type': dharani, 'xml:id': pT12p0352a2501}}
   back: []
-hash: sha256:8c40bae2fe7409e7a078d38000a8d5033a0b796bc52edb42df652e37c6316e18
+hash: sha256:821ca93b1f09e398c9e2b770735d94a5052e7dbf0c8ff9acc4e5c9f4c8475d59

@@ -25,7 +25,13 @@ assets:
   - {seq: 0, role: markers, filename: assets/KR6f0095_000-T.markers.yaml, hash: 'sha256:61cc6ea103bfa3e7df8ef575558d9db8ff995acd73d017d9e57c71f50b2f695c'}
   - {seq: 1, role: markers, filename: assets/KR6f0095_001-T.markers.yaml, hash: 'sha256:bea4efbde1e7237b36928c799830247675bd27284b47b46ec2ba6bc63bdfb355'}
 table_of_contents:
-- ref: {seq: 1, marker_id: KR6f0095_T_001-juan-start, span: [body, 0, 163]}
+- ref:
+    seq: 1
+    marker_id: KR6f0095_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 163
   label: 阿彌陀佛說呪
   type: juan
   level: 1
